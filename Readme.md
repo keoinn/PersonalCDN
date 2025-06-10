@@ -2,5 +2,5 @@
 
 ### CDN URL
 ```
-https://cdn.jsdeliver.net/gh/keoinn/personalcdn/[Resource URI]
+https://cdn.jsdelivr.net/gh/keoinn/personalcdn/[Resource URI]
 ```
